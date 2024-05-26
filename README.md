@@ -1,6 +1,6 @@
 # Innotune
 
-![Innotune Banner](https://github.com/manansood60/Innotune/assets/27049693/c931b3df-e8e4-419a-8d35-eb49318bf3c1)
+<img src="https://github.com/manansood60/Innotune/assets/27049693/c931b3df-e8e4-419a-8d35-eb49318bf3c1" alt="Innotune Banner" width="600">
 
 ## Description!
 
