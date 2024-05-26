@@ -25,7 +25,7 @@ Innotune is a cross-platform audio streaming service inspired by Spotify. It all
 
 ## Screenshots
 
-
+<span style=" display: flex;flex-direction: row-reverse; ">
 <img src="https://github.com/manansood60/Innotune/assets/27049693/b2b650a1-3bf4-464b-96d3-81f910fc0be3" alt="Home Screen" width="300">
 
 *Home Screen*
@@ -37,6 +37,8 @@ Innotune is a cross-platform audio streaming service inspired by Spotify. It all
 <img src="https://github.com/manansood60/Innotune/assets/27049693/92001c3a-3b4f-4e69-a56c-8a9af4e6d98c" alt="Playlist Screen" width="300">
 
 *Playlist Screen*
+
+</span>
 
 <img src="https://github.com/manansood60/Innotune/assets/27049693/cbee688e-9ed4-4f3a-b62a-cbb4d31cd89e" alt="Edit_Playlist" width="300">
 
