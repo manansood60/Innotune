@@ -51,5 +51,5 @@ Innotune is a cross-platform audio streaming service inspired by Spotify. It all
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/innotune.git
+   git clone https://github.com/manansood60/innotune.git
    cd innotune
