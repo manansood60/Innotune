@@ -20,28 +20,29 @@ Innotune is a cross-platform audio streaming service inspired by Spotify. It all
 
 - **Frontend**: React Native, TypeScript, Tailwind CSS
 - **State Management**: Redux
-- **Backend**: Django Rest Framework (if applicable)
-- **Database**: PostgreSQL (if applicable)
+- **Backend**: Django Rest Framework
+- **Database**: PostgreSQL
 
 ## Screenshots
 
-![Home Screen](https://github.com/manansood60/Innotune/assets/27049693/b2b650a1-3bf4-464b-96d3-81f910fc0be3)
+
+<img src="https://github.com/manansood60/Innotune/assets/27049693/b2b650a1-3bf4-464b-96d3-81f910fc0be3" alt="Home Screen" width="300">
 
 *Home Screen*
 
-![Create_Playlist Screen](https://github.com/manansood60/Innotune/assets/27049693/9890e572-6b87-4447-ab6f-b58b875c00d5)
+<img src="https://github.com/manansood60/Innotune/assets/27049693/9890e572-6b87-4447-ab6f-b58b875c00d5" alt="Create_Playlist Screen" width="300">
 
 *Create Playlist*
 
-![Playlist Screen](https://github.com/manansood60/Innotune/assets/27049693/92001c3a-3b4f-4e69-a56c-8a9af4e6d98c)
+<img src="https://github.com/manansood60/Innotune/assets/27049693/92001c3a-3b4f-4e69-a56c-8a9af4e6d98c" alt="Playlist Screen" width="300">
 
 *Playlist Screen*
 
-![Edit_Playlist](https://github.com/manansood60/Innotune/assets/27049693/cbee688e-9ed4-4f3a-b62a-cbb4d31cd89e)
+<img src="https://github.com/manansood60/Innotune/assets/27049693/cbee688e-9ed4-4f3a-b62a-cbb4d31cd89e" alt="Edit_Playlist" width="300">
 
 *Edit Playlist*
 
-![Search](https://github.com/manansood60/Innotune/assets/27049693/5aa47ae8-29aa-4c72-b776-61b6215cbbab)
+<img src="https://github.com/manansood60/Innotune/assets/27049693/5aa47ae8-29aa-4c72-b776-61b6215cbbab" alt="Search" width="300">
 
 *Search*
 
